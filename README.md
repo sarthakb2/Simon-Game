@@ -1,4 +1,4 @@
-# Simon-Game
+# Simon Say Game
 Simon Game Project
 
 I created a web application game that is based on the popular Simon game.
